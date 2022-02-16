@@ -7,3 +7,4 @@ Tableau story presentation Link: https://public.tableau.com/app/profile/jingqi.c
 All Tableau worksheets, dashboards are in Carrier Churn Rate Analysis.twbx
 
 
+![image](https://github.com/JingqiChang/Customer-Churn-Rate-Analysis/blob/main/Picture/Screen%20Shot%202022-02-16%20at%203.40.45%20PM.png)
